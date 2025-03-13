@@ -63,7 +63,7 @@ I'm an Android developer passionate about creating mobile apps that improve peop
 
 <a href="http://www.github.com/albertomv10"><img src="https://github-readme-stats.vercel.app/api?username=albertomv10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="albertomv10's GitHub stats" /></a>
 
-<a href="https://github.com/albertomv10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomv10&langs_count=30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/albertomv10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomv10&langs_count=40&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <b>Top Repositories</b>
